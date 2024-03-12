@@ -6,7 +6,7 @@ import type { FeatureCollection, Point } from "geojson";
 import Image from "next/image";
 
 import geoComisarias from "@/data/geo/comisarias-la-plata.json";
-import geoSeccionales from "@/data/geo/jusrisdicciones-la_plata.json";
+import geoSeccionales from "@/data/geo/seccionales-la_plata.json";
 import { useState } from "react";
 
 export default function Home() {
