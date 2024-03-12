@@ -38,7 +38,7 @@ const HeaderBar: FC<{ className?: string }> = ({ className }) => {
       <AnchorButton
         image={{ src: "/img/megafono-header.webp", alt: "DENUNCIÁ" }}
         active={false}
-        goTo="/mapa"
+        goTo="/denuncia"
         text="DENUNCIÁ"
         hoverText="DENUNCIÁ"
       />

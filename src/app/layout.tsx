@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 
 import { metaContent } from "@/utils/descriptions";
 import "./globals.css";
-import "./layout.css";
 
 import HeaderBar from "@/components/HeaderBar";
 
