@@ -2,6 +2,7 @@ dialog {
   background-color: #ffffff; /* color de fondo */
   color: #333333; /* color de texto */
   font-family: "Helvetica", sans-serif; /* fuente sans-serif */
+  pointer-events: none;
 }
 
 /* Estilo del fondo de pantalla de la clase 'dialog' (pseudoelemento ::backdrop) */
@@ -12,4 +13,18 @@ dialog::backdrop {
     255,
     0.6
   ); /* rgba del color de fondo con 0.6 de opacidad */
+}
+
+dialog[open] {
+  pointer-events: inherit;
+  animation: myFadeIn 0.5s ease normal;
+}
+
+@keyframes myFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
