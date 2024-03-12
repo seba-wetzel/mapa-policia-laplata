@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 
 import { metaContent } from "@/utils/descriptions";
 import "./globals.css";
@@ -20,7 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="flex h-screen flex-col-reverse  gap-4 bg-black p-7 md:flex-col ">
         <HeaderBar />
-        {children}
+        <Suspense>{children}</Suspense>
       </body>
     </html>
   );

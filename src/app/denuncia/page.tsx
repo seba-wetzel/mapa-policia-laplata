@@ -1,5 +1,5 @@
 // import { Button } from "@/components/ui/button";
-// import
+
 import { FC } from "react";
 
 // const Denuncia: FC = () => {

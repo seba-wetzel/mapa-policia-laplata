@@ -36,13 +36,6 @@ export default function Home() {
 
   const puntoHandlerClick: PuntoOnClick = (data, id) => {
     setOpen(true);
-    // console.log(data);
-    // setData({
-    //   title: data.properties?.Nombre || "Comisaria",
-    //   content: data.properties["Dirección"] || "Sin Direccion",
-    //   tel: data.properties["Teléfono"] || "Sin Telefono",
-    //   representante: data.properties["Representa"] || "Sin Representante",
-    // });
     const { icon, ...properties } = data.properties;
     handleSearch(JSON.stringify(properties));
   };
@@ -88,6 +81,7 @@ export default function Home() {
           onClick={puntoHandlerClick}
         />
       </Mapa>
+
       <Dialog open={open} onClose={() => handleSearch("")}>
         <h1>Nombre: {data.title}</h1>
         <p>Direccion: {data.content}</p>
