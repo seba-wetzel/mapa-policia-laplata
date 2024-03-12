@@ -49,7 +49,9 @@ export default function Home() {
 
   useEffect(() => {
     if (searchParams.get("comisaria")) {
-      const data = JSON.parse(searchParams.get("comisaria"));
+      const paramsFound = searchParams.get("comisaria");
+      if (!paramsFound) return;
+      const data = JSON.parse(paramsFound);
       setData({
         title: data.Nombre || "Comisaria",
         content: data["Dirección"] || "Sin Direccion",
