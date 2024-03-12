@@ -1,6 +1,6 @@
 // import { Button } from "@/components/ui/button";
 // import
-// import { FC } from "react";
+import { FC } from "react";
 
 // const Denuncia: FC = () => {
 //   return (
@@ -45,3 +45,13 @@
 //   );
 // };
 // export default Denuncia;
+
+const Denuncia: FC = () => {
+  return (
+    <div>
+      <h1>Denuncia</h1>
+    </div>
+  );
+};
+
+export default Denuncia;
