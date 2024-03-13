@@ -70,7 +70,7 @@ export default function Home() {
         id="casos"
         onChange={(e) => setShowCasos(e.target.checked)}
       />
-      <label className="m-4 font-lulo font-bold text-white" htmlFor="casos">
+      <label className="mx-4 font-lulo font-bold text-white" htmlFor="casos">
         Mostrar casos
       </label>
       <Mapa

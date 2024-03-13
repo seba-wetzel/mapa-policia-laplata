@@ -19,8 +19,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="flex h-screen flex-col-reverse  gap-4 bg-black p-7 md:flex-col ">
-        <HeaderBar />
+      <body className="flex h-screen  flex-col-reverse gap-4 bg-black p-7 md:flex-col">
+        <HeaderBar className="mt-4" />
         <Suspense>{children}</Suspense>
       </body>
     </html>
