@@ -2,16 +2,22 @@
 import Dialog from "@/components/Dialog";
 import type { PuntoOnClick } from "@/components/Mapa";
 import { Mapa } from "@/components/Mapa";
-import type { FeatureCollection, Point } from "geojson";
+import { GeoJsonProperties, type FeatureCollection, type Point } from "geojson";
 import Image from "next/image";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
+import casos from "@/data/geo/casos.json";
 import geoComisarias from "@/data/geo/comisarias-la-plata.json";
 import geoSeccionales from "@/data/geo/seccionales-la_plata.json";
 import { useEffect, useState } from "react";
 
 export default function Home() {
   const [open, setOpen] = useState(false);
+
+  const [showCasos, setShowCasos] = useState(false);
+  const [selectedCaso, setSelectedCaso] = useState<GeoJsonProperties | null>(
+    null,
+  );
 
   const searchParams = useSearchParams();
   const pathname = usePathname();
@@ -59,6 +65,14 @@ export default function Home() {
 
   return (
     <main className="h-full">
+      <input
+        type="checkbox"
+        id="casos"
+        onChange={(e) => setShowCasos(e.target.checked)}
+      />
+      <label className="m-4 font-lulo font-bold text-white" htmlFor="casos">
+        Mostrar casos
+      </label>
       <Mapa
         maxBounds={[
           [-58.29, -35.24],
@@ -80,13 +94,31 @@ export default function Home() {
           }
           onClick={puntoHandlerClick}
         />
+        {showCasos && (
+          <Mapa.Puntos
+            data={casos as FeatureCollection<Point>}
+            id="my-data-2"
+            onClick={(c) => setSelectedCaso(c.properties)}
+          />
+        )}
       </Mapa>
 
-      <Dialog open={open} onClose={() => handleSearch("")}>
-        <h1>Nombre: {data.title}</h1>
-        <p>Direccion: {data.content}</p>
-        <p>Telefono: {data.tel}</p>
-        <p>Representante: {data.representante}</p>
+      <Dialog
+        open={Boolean(selectedCaso)}
+        onClose={() => setSelectedCaso(null)}
+      >
+        {selectedCaso && (
+          <div className="max-w-md">
+            <h1>Caso nro: {selectedCaso["NumCaso"]}</h1>
+            <div className="flex flex-row flex-wrap">
+              <p>Fecha: {selectedCaso["Fecha de Deceso"]}</p>
+              <p>Barrio: {selectedCaso["Ciudad"]}</p>
+              <p>Nombre: {selectedCaso["Nombre"]}</p>
+            </div>
+            <h6>Situación Procesal: {selectedCaso["Situación Procesal"]}</h6>
+            <p>{selectedCaso["Circunstancias"]}</p>
+          </div>
+        )}
       </Dialog>
     </main>
   );
