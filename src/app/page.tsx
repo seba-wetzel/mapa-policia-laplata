@@ -43,8 +43,10 @@ export default function Home() {
   const comisariaHandlerClick = (properties: GeoJsonProperties) => {
     //Hay que sacar el icono del objeto properties
     //para np generar una redundancia en json.stringify
-    const { icon, ...data } = properties;
-    handleSearch(JSON.stringify(data), "comisaria");
+    if (properties && properties["icon"]) {
+      delete properties["icon"];
+      handleSearch(JSON.stringify(properties), "comisaria");
+    }
   };
 
   useEffect(() => {
@@ -52,7 +54,6 @@ export default function Home() {
     const caso = searchParams.get("caso");
     if (comisaria) {
       const data = JSON.parse(comisaria);
-      console.log(data);
       setSelectedComisaria(data);
       return;
     }
@@ -130,7 +131,9 @@ export default function Home() {
             </div>
             <h6>Situación Procesal: {selectedCaso["Situación Procesal"]}</h6>
             <h6 className="mt-4 text-center font-bold">Circunstancias</h6>
-            <p>{selectedCaso["Circunstancias"]}</p>
+            <p className="overflow-y-visible">
+              {selectedCaso["Circunstancias"]}
+            </p>
           </div>
         )}
       </Dialog>
