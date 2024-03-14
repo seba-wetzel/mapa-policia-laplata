@@ -1,0 +1,3819 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 1,
+        "NumCaso": 1209,
+        "Nombre": "VALLE, Rubén Dardo",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "",
+        "Año": "",
+        "Gestión": "Alfonsín",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Personal de la comisaría 4ª de La Plata.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Sin datos.",
+        "Cod_Circunstancia": 6,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 2,
+        "NumCaso": 457,
+        "Nombre": "FLORES, Vicente",
+        "Género": "",
+        "Edad": 19,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "",
+        "Año": "",
+        "Gestión": "Alfonsín",
+        "Ciudad": "RINGUELET",
+        "Imputados": "Subcomisario de La Plata Rubén Caraoli",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido.",
+        "Circunstancias": "Sin datos.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9947812, -34.8856132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 3,
+        "NumCaso": 8,
+        "Nombre": "ALBANESE, Maximiliano M.",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "3/6/1990",
+        "Año": 1990,
+        "Gestión": "Menem",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Héctor Oscar Ferrero, Fabián Guillermo Nievas y Carlos José Navarro.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Los tres fueron detenidos la noche del hecho y liberados a los 7 meses. Se recalificó como homicidio agravado y uno de los civiles fue detenido en 2003, luego puesto en libertad. En 2006 el policía Ferrero fue detenido en Brasil, pero la Cámara de Apelaci",
+        "Circunstancias": "Fusilado por Ferrero, quien alegó \"que se le cayó el arma al suelo y se disparó sola\". Maximiliano estaba arrodillado cuando recibió el disparo en la nuca, a 80 cm. de distancia.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 4,
+        "NumCaso": 843,
+        "Nombre": "NÚÑEZ, Andrés",
+        "Género": "",
+        "Edad": 32,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "27/9/1990",
+        "Año": 1990,
+        "Gestión": "Menem",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Brigada de investigaciones de La Plata: Ernesto Zavala, Héctor Lascano, Roberto Martiré, Héctor Ferrero, Gerónimo Carrizo, Oscar Silva, Alejandro Dezeo, Pedro Costilla, Juan Kaldlugowsky, Gustavo Veiga, Víctor Dos Santos, Daniel Ramos, Luis Raúl Ponce.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Pablo Gerez sigue prófugo. González, prófugo durante 10 años por tortura seguida de muerte, fue detenido en 2005, y Rubén V. Dos Santos, que se había hecho sacerdote de la religión umbanda, fue capturado en 2006. Los dos están condenados a perpetua. Ponce",
+        "Circunstancias": "Secuestrado y torturado hasta morir en la brigada. En 1995 se encontró el cuerpo enterrado en el campo de un primo de uno de los policías. En 2011, la familia recibió los restos.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "D",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 5,
+        "NumCaso": 188,
+        "Nombre": "BRU, Miguel",
+        "Género": "",
+        "Edad": 23,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "17/8/1993",
+        "Año": 1993,
+        "Gestión": "Menem",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Subcomisario Walter Abrigo, sargento Justo López, Comisario Juan Domingo Ojeda, oficial Jorge Gorosito.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Condenados Abrigo y López por tormento seguido de muerte, ya ambos están excarcelados. Ojeda fue condenado a una pena excarcelable por omisión de vigilancia.",
+        "Circunstancias": "Detenido ilegalmente y torturado en la comisaría 9º de La Plata. Su cuerpo nunca fue hallado.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "D",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 6,
+        "NumCaso": 499,
+        "Nombre": "GARRIADOR, Silvia",
+        "Género": "F",
+        "Edad": 29,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "28/7/1995",
+        "Año": 1995,
+        "Gestión": "Menem",
+        "Ciudad": "RINGUELET",
+        "Imputados": "Luis Pratto, policía bonaerense.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Condenado a 20 años de prisión por homicidio simple, los camaristas anularon la sentencia en 1999 por errores técnicos y convocaron a un nuevo juicio oral. En abril de 2008 participó del secuestro del hijo de un empresario y apareció muerto a dos cuadras",
+        "Circunstancias": "Pratto, policía de Bahía Blanca en la década del 70, siguió en su auto y mató con cinco tiros a Silvia, conviviente del padre de su novia, dueño de una cadena de restaurantes, luego de haber intervenido con micrófonos e interceptado llamados, aparentement",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9947812, -34.8856132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 7,
+        "NumCaso": 72,
+        "Nombre": "ARAYA, Oscar Maximiliano",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "19/2/1999",
+        "Año": 1999,
+        "Gestión": "Menem",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Eduardo González , sargento en el Cuerpo de Infantería.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido",
+        "Circunstancias": "González, además de ser policía, trabajaba en una remisería. Dos pasajeros le robaron el dinero de la recaudación y huyeron corriendo. Segundos después, en plena fuga de los presuntos delincuentes, el conductor se bajó del rodado comenzó a tirar con su pi",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 8,
+        "NumCaso": 1445,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "20/2/1999",
+        "Año": 1999,
+        "Gestión": "Menem",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Eduardo González",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Procesado y con prisión preventiva por homicidio simple.",
+        "Circunstancias": "Le disparó argumentando que el menor lo había querido asaltar en el Barrio Las Quintas, lo que se probó falso.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 9,
+        "NumCaso": 1441,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "20/2/1999",
+        "Año": 1999,
+        "Gestión": "Menem",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Eduardo González",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido con prisión preventiva por homicidio simple.",
+        "Circunstancias": "El policía alega que lo quisieron robar, pero está probado que el menor recibió el tiro en la espalda.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 10,
+        "NumCaso": 440,
+        "Nombre": "FERREYRA, Ricardo",
+        "Género": "",
+        "Edad": 33,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "1/3/1999",
+        "Año": 1999,
+        "Gestión": "Menem",
+        "Ciudad": "BOSQUES",
+        "Imputados": "Dos custodios privados",
+        "Cod_Fuerza": "Seguridad privada",
+        "Situación Procesal": "En instrucción, imputan el homicidio a los ladrones.",
+        "Circunstancias": "Ferreyra y su esposa llevaban su hijo al hospital Mi Pueblo. Unos ladrones trataron de robar las bolsas de la recaudación de la estación de Bosques y Ferreyra recibió un tiro en el pecho cuando los custodios de la empresa SEARCH los perseguían disparando.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.244307, -34.8267859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 11,
+        "NumCaso": 743,
+        "Nombre": "MARIN Dasandro, Carlos",
+        "Género": "",
+        "Edad": "Mayor",
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "14/3/1999",
+        "Año": 1999,
+        "Gestión": "Menem",
+        "Ciudad": "OLMOS",
+        "Imputados": "Personal del Servicio Penitenciario Bonaerense",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Se produjo un incendio en el pabellón de buena conducta y cuatro internos murieron asfixiados.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0853962, -35.0057117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 12,
+        "NumCaso": 1314,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "2/1/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido y procesado",
+        "Circunstancias": "Durante un asalto a un bar hubo un funcionario de la policía quien, según testigos presenciales, comenzó a disparar indiscriminadamente. Dos asaltantes resultaron muertos como también Daniel Grassano, copropietario del bar. Dos personas resultaron heridas",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 13,
+        "NumCaso": 563,
+        "Nombre": "GONZÁLEZ, Marcelo",
+        "Género": "",
+        "Edad": 27,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "29/1/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía bonaerense",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Durante un motín por las condiciones de hacinamiento en la comisaría 5ª, varios presos encendieron colchones. La policía no sacó a los restantes internos del lugar, dejando que cuatro de ellos murieran asfixiados.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 14,
+        "NumCaso": 639,
+        "Nombre": "JUAREZ, Juan",
+        "Género": "",
+        "Edad": 25,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "29/1/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Bonaerense",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Durante un motín por las condiciones de hacinamiento en la comisaría 5ª, varios presos encendieron colchones. La policía no sacó a los restantes internos del lugar, dejando que cuatro de ellos murieran asfixiados.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 15,
+        "NumCaso": 831,
+        "Nombre": "NAVARRO, Ramón",
+        "Género": "",
+        "Edad": 31,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "29/1/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Bonaerense, subcomisario José Iturbe y otros.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Imputados por homicidio culposo, Iturbe fue detenido.",
+        "Circunstancias": "Durante un motín por las condiciones de hacinamiento en la comisaría 5ª, varios presos encendieron colchones. La policía no sacó a los restantes internos del lugar, dejando que cuatro de ellos murieran asfixiados.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 16,
+        "NumCaso": 123,
+        "Nombre": "BARRIENTOS, Marcelo",
+        "Género": "",
+        "Edad": 20,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "29/1/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Bonaerense",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Durante un motín por las condiciones de hacinamiento en la comisaría 5ª, varios presos encendieron colchones. La policía no sacó a los restantes internos del lugar, dejando que cuatro de ellos murieran asfixiados.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 17,
+        "NumCaso": 1486,
+        "Nombre": "SANTANDER, Silvia",
+        "Género": "F",
+        "Edad": 26,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "3/2/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía bonaerense Juan José García.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En el juicio oral se cambió la calificación inicial de homicidio culposo a simple por dolo eventual.",
+        "Circunstancias": "Cuando García se retiraba de la casa de su novia en calle 21, entre 34 y 35, al intentar colocar su arma de fuego que portaba en su mano derecha, sin el correspondiente seguro, debajo del brazo izquierdo y hallándose de perfil a Santander, se disparó la p",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 18,
+        "NumCaso": 872,
+        "Nombre": "OYARBIDE, Mónica",
+        "Género": "F",
+        "Edad": 30,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "17/6/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Subcomisario Jorge Carreras",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Le dispararon junto a su pareja por una deuda de éste con el policía por negocios de distribución de droga. La víctima era la ex mujer de uno de los \"Horneros\", contratados por la bonaerense para asesinar al fotógrafo José Luis Cabezas.",
+        "Cod_Circunstancia": 4,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 19,
+        "NumCaso": 1448,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": "Mayor",
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "24/7/2000",
+        "Año": 2000,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Subcomisario Carlos Cuello",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El subcomisario oyó ruidos en el techo de su casa, por lo que disparó contra 3 personas dándole muerte a una de ellas.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 20,
+        "NumCaso": 4939,
+        "Nombre": "CASTROCIN, Germán Ariel \"Fofi",
+        "Género": "",
+        "Edad": 22,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "17/6/2001",
+        "Año": 2001,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Personal policial de la comisaría 7ª (Abasto).",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Causa penal cerrada.",
+        "Circunstancias": "Detenido en la comisaría 7ª, tenía asma. No le permitieron recibir el broncodilatador que llevó su compañera ni le dieron atención médica. Murió asfixiado durante la noche.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 21,
+        "NumCaso": 740,
+        "Nombre": "MANZO, Eduardo",
+        "Género": "",
+        "Edad": "Mayor",
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "30/7/2001",
+        "Año": 2001,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Agente del Servicio penitenciario provincial Marcelo Hermida",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido junto con la ex esposa de la víctima, Laura Gobernatori.",
+        "Circunstancias": "El cadáver de la víctima (prefecto de la cárcel de Olmos) apareció en el baúl de un auto con la cabeza envuelta en una bolsa. Hermida, también penitenciario, de servicio en la cárcel de F. Varela- fue encontrado por la policía casualmente en la casa de la",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 22,
+        "NumCaso": 3216,
+        "Nombre": "GONZÁLEZ, Valeria",
+        "Género": "F",
+        "Edad": 23,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "25/9/2001",
+        "Año": 2001,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Juan Carlos Veck y Débora Vizcarra, policías provinciales.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenidos en 2011.",
+        "Circunstancias": "La víctima, también policía, era novia de Veck, una relación plena de violencia, y amiga de Vizcarra. La encontraron en la calle con un disparo en la sien, simulando un suicidio. Diez años después, se probó que la mató el novio, con ayuda de la amiga, y q",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 23,
+        "NumCaso": 344,
+        "Nombre": "CUELLO, Gustavo",
+        "Género": "",
+        "Edad": 35,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "28/10/2001",
+        "Año": 2001,
+        "Gestión": "De La Rua",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía bonaerense de la 9ª de La Plata",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción",
+        "Circunstancias": "Desapareció de su casa el 27 de octubre. Su familia no supo más de él hasta el 1° de noviembre, cuando lo encontraron muerto dentro de una casaquinta de las afueras de La Plata -su dueño nada tiene que ver con Cuello-, con un balazo. Recién varias horas d",
+        "Cod_Circunstancia": 7,
+        "Desaparecidos": "D",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 24,
+        "NumCaso": 1313,
+        "Nombre": "AZCONA, Julio",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "17/1/2002",
+        "Año": 2002,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Rubén Osmar Jara, policía del cuerpo de bomberos.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En el juicio oral sólo fue acusado por las muertes del cliente y el comerciante, no por la del ladrón, y finalmente fue absuelto por todas.",
+        "Circunstancias": "Durante un asalto a un bar hubo el funcionario comenzó a disparar indiscriminadamente. Mató a un cliente, al que quisieron presentar como uno de los ladrones, a uno de los copropietarios del bar y a uno de los asaltantes. Otras dos personas resultaron her",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 25,
+        "NumCaso": 579,
+        "Nombre": "GRASSANO, Daniel",
+        "Género": "",
+        "Edad": 41,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "17/1/2002",
+        "Año": 2002,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Rubén Osmar Jara, del cuerpo de bomberos.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En el juicio oral sólo fue acusado por las muertes del cliente y el comerciante, no por la del ladrón, y finalmente fue absuelto por todas.",
+        "Circunstancias": "Durante un asalto a un bar hubo el funcionario comenzó a disparar indiscriminadamente. Mató a un cliente, al que quisieron presentar como uno de los ladrones, a uno de los copropietarios del bar y a uno de los asaltantes. Otras dos personas resultaron her",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 26,
+        "NumCaso": 1581,
+        "Nombre": "DÍAZ, Leonardo",
+        "Género": "",
+        "Edad": "Menor",
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "17/1/2002",
+        "Año": 2002,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Rubén Osmar Jara, del cuerpo de bomberos.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En el juicio oral sólo fue acusado por las muertes del cliente y el comerciante, no por la del ladrón, y finalmente fue absuelto por todas.",
+        "Circunstancias": "Durante un asalto a un bar hubo el funcionario comenzó a disparar indiscriminadamente. Mató a un cliente, al que quisieron presentar como uno de los ladrones, a uno de los copropietarios del bar y a uno de los asaltantes. Otras dos personas resultaron her",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 27,
+        "NumCaso": 907,
+        "Nombre": "PENNA, Marcelo Horacio",
+        "Género": "",
+        "Edad": 45,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "10/7/2002",
+        "Año": 2002,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Tres policías, Jorge Lescano y Sebastián Sandoval, de la Departamental de Quilmes y Ramón Lescano, que estaba en disponibilidad preventiva.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "José Luis Lescano y Sebastián Ricardo Sandoval fueron condenados a prisión perpetua, y Ramón Omar Lescano a nueve años de prisión.",
+        "Circunstancias": "Era abogado. Apareció esposado a un árbol del Parque Pereyra Iraola y con dos tiros en la espalda. Intentaron presentar el hecho como obra de delincuentes comunes, pero pronto se descubrió que lo ejecutó una organización en la que participan policías que",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 28,
+        "NumCaso": 1167,
+        "Nombre": "SPOTTI, Gabriela Adriana",
+        "Género": "F",
+        "Edad": 30,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "26/9/2002",
+        "Año": 2002,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Pablo Christian Pais, suboficial de la Aeronáutica",
+        "Cod_Fuerza": "Otras Fuerzas",
+        "Situación Procesal": "Condenado el 24/5/2006 por homicidio doloso agravado por el vínculo a 20 años de prisión.",
+        "Circunstancias": "Ella era cabo de la policía, y su esposo suboficial de la Aeronáutica. La mató de un tiro en el pecho con su arma reglamentaria calibre 11,25 delante de sus hijos de 7, 4 y 2 años.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 29,
+        "NumCaso": 2796,
+        "Nombre": "PÉREZ, Cristian \"El Rusito",
+        "Género": "",
+        "Edad": 18,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "1/10/2002",
+        "Año": 2002,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policías Alejandro Koenig, Miguel Angel Alvarez, Jorge Alberto Luna, Pedro Oscar Djurasek, Ariel David Perich y Selva Beatriz Sosa.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción, cuatro de los policías fueron detenidos por homicidio agravado por alevosía en 2014. Otros están imputados por encubrimiento.",
+        "Circunstancias": "Fue detenido por atropellar dos ciclistas, uno de ellos familiar de un policía de la misma comisaría. En los libros figuraba que fue dejado en libertad. Pocas horas después apareció muerto en las vías del tren en City Bell. La familia siempre tuvo la cert",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 30,
+        "NumCaso": 1571,
+        "Nombre": "SORIA, Emilio",
+        "Género": "",
+        "Edad": 22,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "6/5/2003",
+        "Año": 2003,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "VILLA ELISA",
+        "Imputados": "Cabo Sebastián Federico Adinolfi",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "El cuerpo del homicida apareció sin vida el 28/07/04 en Berazategui, con lo que se cerró la causa.",
+        "Circunstancias": "Recibió un balazo en la cabeza, fue encontrado a metros de las vías del ferrocarril. Adinolfi actuó como killer contratado por el marido de la amante de Soria. Como no le pagó, después mató a su contratante y a la esposa que estaba embarazada.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1167189, -34.8606563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 31,
+        "NumCaso": 1575,
+        "Nombre": "SOTO, Alejandra",
+        "Género": "F",
+        "Edad": 19,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "6/5/2003",
+        "Año": 2003,
+        "Gestión": "Puerta/R. Saá/Duhalde",
+        "Ciudad": "VILLA ELISA",
+        "Imputados": "Cabo Sebastián Federico Adinolfi",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "El cuerpo del homicida apareció sin vida el 28/07/04 en Berazategui, con lo que se cerró la causa.",
+        "Circunstancias": "Damián Diez había contratado a Adinolfi como killer porque acusaba a un tal Soria de mantener un romance con su mujer, Alejandra Soto. Pero como Diez no cumplió con el pago, Adinolfi se tomó venganza y asesinó a Diez y a su esposa, que por entonces estaba",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1167189, -34.8606563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 32,
+        "NumCaso": 2284,
+        "Nombre": "LÓPEZ, Felipe",
+        "Género": "",
+        "Edad": "Mayor",
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "4/4/2004",
+        "Año": 2004,
+        "Gestión": "Kirchner",
+        "Ciudad": "MELCHOR ROMERO",
+        "Imputados": "Personal policial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Tres policías fueron imputados por negligencia.",
+        "Circunstancias": "Lo encontraron ahorcado en su celda.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0836601, -34.9471028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 33,
+        "NumCaso": 1518,
+        "Nombre": "ALANIS, Mario Díaz",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "1/5/2004",
+        "Año": 2004,
+        "Gestión": "Kirchner",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Policía bonaerense",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción.",
+        "Circunstancias": "Supuesto enfrentamiento entre policías y delincuentes. Mario recibió un disparo que le atravesó el tórax. La autopsia mostró que tenía tres impactos de bala. Dos en las piernas con orificio de entrada y salida y uno en el hombro, que le recorrió la espald",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 34,
+        "NumCaso": 1577,
+        "Nombre": "DIEZ, Damián",
+        "Género": "",
+        "Edad": 28,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "6/5/2004",
+        "Año": 2004,
+        "Gestión": "Kirchner",
+        "Ciudad": "VILLA ELISA",
+        "Imputados": "Cabo Sebastián Federico Adinolfi",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "El cuerpo del homicida apareció sin vida el 28/07/04 en Berazategui, con lo que se cerró la causa.",
+        "Circunstancias": "Damián Diez había contratado a Adinolfi como killer porque acusaba a un tal Soria de mantener un romance con su mujer, Alejandra Soto. Pero como Diez no cumplió con el pago, Adinolfi se tomó venganza y asesinó a Diez y a su esposa, que por entonces estaba",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1167189, -34.8606563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 35,
+        "NumCaso": 1590,
+        "Nombre": "YAPURA, LILIANA",
+        "Género": "F",
+        "Edad": 35,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "23/9/2004",
+        "Año": 2004,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Cabo Moisés Ricardo Barboza.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Un policía mató a su esposa y luego se pegó un balazo en la boca.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 36,
+        "NumCaso": 1665,
+        "Nombre": "RESPRESS, Liliana Cristina",
+        "Género": "F",
+        "Edad": 46,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "2/12/2004",
+        "Año": 2004,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Sargento primero Osvaldo Orlando Sprang, mecánico de la Dirección Aérea.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido imputado por homicidio. A juicio oral en el 2008 condenado a 28 años de prisión.",
+        "Circunstancias": "La pareja protagonizó una violenta discusión. Ante la amenaza de la mujer con denunciarlo, Sprang le puso la pistola 9 mm en la boca en el cuello y disparó.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 37,
+        "NumCaso": 1862,
+        "Nombre": "MIGONE, Oscar Daniel",
+        "Género": "",
+        "Edad": 38,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "9/11/2005",
+        "Año": 2005,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Capitán Marcelo Fabián Falcón y oficiales Luís Díaz Zapata, Daniel Guillermo Espósito, Ariel Carlos Tolosa y Maria Valeria Maciel, todos de la Cria. 9ª.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Díaz Zapata, Tolosa y Espósito fueron condenados a prisión perpetua por tortura seguida de muerte. Falcó, a 10 años por omisión de evitar las torturas. Maciel fue absuelta.",
+        "Circunstancias": "Fue detenido acusado de haber protagonizado un robo y horas más tarde apareció ahorcado, tirado en el piso del calabozo de esa seccional, la misma en la que despareció Miguel Bru, con una campera de jean enrollada en el cuello. Una sobrina de 16 años del",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 38,
+        "NumCaso": 1926,
+        "Nombre": "LE BELLOT, Roberto",
+        "Género": "",
+        "Edad": 55,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "6/3/2006",
+        "Año": 2006,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Sin datos",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Estaba preso, apareció ahorcado en una celda de la comisaría 8ª.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 39,
+        "NumCaso": 1704,
+        "Nombre": "LÓPEZ, Jorge Julio",
+        "Género": "",
+        "Edad": 74,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "18/9/2006",
+        "Año": 2006,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Personal policial y de otras fuerzas.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción en dos causas, una provincial que es simple búsqueda de paradero, y una federal iniciada a partir del habeas corpus presentado por organismos de DDHH el día de su desaparición.",
+        "Circunstancias": "Querellante y testigo en la causa contra el genocida Miguel Etchecolatz, desapareció de su casa el día de los alegatos. Casi tres meses después su llavero fue arrojado al jardín de su casa. Julio nunca se llevaba el llavero consigo al salir, después de ce",
+        "Cod_Circunstancia": 7,
+        "Desaparecidos": "D",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 40,
+        "NumCaso": 2160,
+        "Nombre": "BARZÁBAL, Darián",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "10/1/2007",
+        "Año": 2007,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Sargento Santiago Regalía, sargento Cristian Aníbal Gutiérrez, capitán Eduardo Zaffino, capitán Carlos Daniel Morales, teniente Primero Iván Adrián Martínez, teniente Lucas Antonio Oyarzábal y subteniente Luis Manuel Dorato.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Regalía, autor del disparo, está detenido con prisión preventiva por homicidio. Los jefes de la comisaría de Los Hornos y el policía que lo detuvo fueron procesados por diversos grados de encubrimiento y participación criminal pero están excarcelados.",
+        "Circunstancias": "Detenido por una tentativa de robo, el policía le disparó en la cabeza dentro del patrullero. Primero intentaron fraguar un forcejeo y plantaron un arma, pero los testimonios y la prueba de que estaba esposado a la espalda destruyeron esa hipótesis.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 41,
+        "NumCaso": 2138,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": "Menor",
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "5/4/2007",
+        "Año": 2007,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía bonaerense.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Dos jóvenes intentaron robar en la municipalidad de La Plata. El policía les disparó, mató a uno y el otro fue detenido.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 42,
+        "NumCaso": 2243,
+        "Nombre": "VATALARO, Alejandro Rubén",
+        "Género": "",
+        "Edad": 27,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "19/10/2007",
+        "Año": 2007,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Marcos Casetti, policía compañero de los asesinados, y Mariano Ezequiel Filippi Medina, hijo de un ex agente del servicio penitenciario, y otros policías.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Condenados a prisión perpetua.",
+        "Circunstancias": "Tres policías que estaban de guardia en una planta transmisora del ministerio de seguridad cerca de La Plata fueron asesinados por la madrugada. Casi no robaron nada, y la camioneta policíal que se llevaron la abandonaron a poca distancia. Hubo particular",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 43,
+        "NumCaso": 2244,
+        "Nombre": "TORRES Barbosa, Ricardo",
+        "Género": "",
+        "Edad": 26,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "19/10/2007",
+        "Año": 2007,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Ex policía Fabián Gianotta,  los barrabravas y militantes peronistas y sindicalistas Leandro Fabián Colucci, Gustavo Mastrovitto y Javier Uriarte, y un segundo policía, recibido en enero de 2007 y en actividad.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "El fiscal pidió su prisión preventiva pero el juez de garantías lo consideró prematuro, así que fueron excarcelados mientras prosigue la instrucción.",
+        "Circunstancias": "Tres policías que estaban de guardia en una planta transmisora del ministerio de seguridad cerca de La Plata fueron asesinados por la madrugada. Casi no robaron nada, y la camioneta policíal que se llevaron la abandonaron a poca distancia. Hubo particular",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 44,
+        "NumCaso": 2242,
+        "Nombre": "DÍAZ, Pedro",
+        "Género": "",
+        "Edad": 45,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "19/10/2007",
+        "Año": 2007,
+        "Gestión": "Kirchner",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Ex policía Fabián Gianotta,  los barrabravas y militantes peronistas y sindicalistas Leandro Fabián Colucci, Gustavo Mastrovitto y Javier Uriarte, y un segundo policía, recibido en enero de 2007 y en actividad.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "El fiscal pidió su prisión preventiva pero el juez de garantías lo consideró prematuro, así que fueron excarcelados mientras prosigue la instrucción.",
+        "Circunstancias": "Tres policías que estaban de guardia en una planta transmisora del ministerio de seguridad cerca de La Plata fueron asesinados por la madrugada. Casi no robaron nada, y la camioneta policíal que se llevaron la abandonaron a poca distancia. Hubo particular",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 45,
+        "NumCaso": 2381,
+        "Nombre": "DESMELIK, Sebastián Mauro",
+        "Género": "",
+        "Edad": 34,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "20/12/2007",
+        "Año": 2007,
+        "Gestión": "CFK 1",
+        "Ciudad": "ARANA",
+        "Imputados": "Policías del destacamento de Arana.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Causa instruída como suicidio.",
+        "Circunstancias": "Desmelik, policía de la comisaría 4° de Quilmes, quien había sido detenido tres días antes por el delito de coacción agravada y daños fue encontrado ahorcado en su celda del destacamento policíal.\nAl momento de ser descubierto, el oficial ya estaba muerto",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.8880397, -35.002055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 46,
+        "NumCaso": 2353,
+        "Nombre": "LEDESMA, N. N.",
+        "Género": "",
+        "Edad": 2,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 1,
+        "Fecha de Deceso": "13/1/2008",
+        "Año": 2008,
+        "Gestión": "CFK 1",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía de la 1ª de San Isidro Damián Ledesma.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sobreseida por muerte del autor.",
+        "Circunstancias": "Después de una discusión con su mujer, el policía baleó en la cabeza a su beba de 2 años y se mató.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "FR",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 47,
+        "NumCaso": 2372,
+        "Nombre": "ARAMAYO, Nelson",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "24/3/2008",
+        "Año": 2008,
+        "Gestión": "CFK 1",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Luis Javier Ojeda, subinspector de la cría. 25ª.",
+        "Cod_Fuerza": "PFA",
+        "Situación Procesal": "Recuperó la libertad en 72 hs., la fiscalía elevaría a juicio por homicidio en exceso de la legítima defensa.",
+        "Circunstancias": "Después de una semana de mediatizar un caso de robo y violación y otro intento de violación como el ataque del \"hombre araña\" en La Plata; presuntamente el joven habría sido visto por los vecinos de un edificio de calle 10, número 1571, entre las calles 6",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 48,
+        "NumCaso": 2396,
+        "Nombre": "VALDIVIA, Marcelo Orlando",
+        "Género": "",
+        "Edad": 19,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "27/4/2008",
+        "Año": 2008,
+        "Gestión": "CFK 1",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Jefe de operaciones de la departamental Azul, inspector Francisco Ferencz.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción por tentativa de robo calificado y homicidio en legítima defensa. El policía en libertad.",
+        "Circunstancias": "Según la versión del policía, un hombre habría llegado en moto con Valdivia y lo abordó con fines de robo al ingresar con su camioneta al garage de su casa. Entró al hogar y cuando estaría en la habitación de su hija, Ferencz le disparó tres balazos con e",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 49,
+        "NumCaso": 2397,
+        "Nombre": "LOREA,  Hugo Isidoro",
+        "Género": "",
+        "Edad": 28,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "27/4/2008",
+        "Año": 2008,
+        "Gestión": "CFK 1",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Jefe de operaciones de la departamental Azul, inspector Francisco Ferencz.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción por tentativa de robo calificado y homicidio en legítima defensa. El policía está en libertad.",
+        "Circunstancias": "Según la versión del policía, Lorea habría llegado en ciclomotor con otro joven y lo abordó con fines de robo al ingresar con su camioneta al garage de su casa. Ingresó al hogar y cuando estaría en la habitación de su hija, Ferencz le disparó tres balazos",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 50,
+        "NumCaso": 2438,
+        "Nombre": "SERRANO, Miguel Angel",
+        "Género": "",
+        "Edad": 19,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "3/6/2008",
+        "Año": 2008,
+        "Gestión": "CFK 1",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Teniente primero Marcelo Palomo de la cría. 3ª de La Plata.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción inicialmente imputado por homicidio con prisión preventiva fue liberado al mes por calificar como homicidio culposo y las manifestaciones en contra fueron reprimidas con un militante de CORREPI individualizado y detenido e imputado de daño",
+        "Circunstancias": "Circulaba en bicicleta con un amigo por las calles 155 y 56 de Los Hornos cuando el policía de la comisaría 3ª, los atropella intencionalmente. Al ver en el piso a Miguel, corre la bicicleta, vuelve a embestir al adolescente y se da a la fuga, en presenci",
+        "Cod_Circunstancia": 7,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 51,
+        "NumCaso": 2435,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 15,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "19/6/2008",
+        "Año": 2008,
+        "Gestión": "CFK 1",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Miguel Angel Chocobar (23) de la cría. 1ª de Florencio Varela.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción por homicidio en legítima defensa.",
+        "Circunstancias": "Dos jóvenes de 15 años habrían ingresado a un ciber en 10 y 64, según la versión policial con fines de robo y Chocobar les disparó, impactando una bala en el pecho de uno provocándole la muerte y al otro hiréndolo en la mano. Un casquillo recolectado en e",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 52,
+        "NumCaso": 2521,
+        "Nombre": "PORTAL, Germán",
+        "Género": "",
+        "Edad": 21,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "12/11/2008",
+        "Año": 2008,
+        "Gestión": "CFK 1",
+        "Ciudad": "VILLA ELISA",
+        "Imputados": "Comisaría 12°.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción por averiguación de causales de muerte.",
+        "Circunstancias": "Detenido en el barrio Abasto dos días antes, tres horas después del cambio de guardia un preso lo encontró ahorcado en el único baño de la cría. con un cordón de zapatilla.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1167189, -34.8606563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 53,
+        "NumCaso": 2690,
+        "Nombre": "OLIVA, Emanuel",
+        "Género": "",
+        "Edad": 27,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "13/6/2009",
+        "Año": 2009,
+        "Gestión": "CFK 1",
+        "Ciudad": "MELCHOR ROMERO",
+        "Imputados": "Superintendente de la policía (RE) Osvaldo Oliva.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Archivada por muerte del imputado.",
+        "Circunstancias": "Oliva padre habría intentado golpear a su ex mujer. Emanuel, tambien policía, se interpuso y entonces el hombre lo atacó con un cuchillo de cocina. En ese momento el hijo habría querido sacar su pistola pero Oliva tomó el arma de su ex mujer y lo mató. En",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "FR",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0836601, -34.9471028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 54,
+        "NumCaso": 2699,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 29,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "22/7/2009",
+        "Año": 2009,
+        "Gestión": "CFK 1",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Comisaría 3ª de Los Hornos.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Investigado como suicidio.",
+        "Circunstancias": "El hombre estaba acusado de violar a su hija. El jefe de la distrital de Villa Elvira Agustín Vidal dijo que el custodio del detenido lo dejó unos minutos esposado con las manos adelante y cuando regresó lo encontró ahorcado con su cinturón.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 55,
+        "NumCaso": 2846,
+        "Nombre": "HEREDIA, Ezequiel",
+        "Género": "",
+        "Edad": 18,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "5/12/2009",
+        "Año": 2009,
+        "Gestión": "CFK 1",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía bonaerense Sergio Mariano Leonel Aguirre.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En un juicio abreviado, fue condenado a 3 años de prisión de cumplimiento efectivo por homicidio con exceso de la legítima defensa.",
+        "Circunstancias": "Dos policías acudieron a separar a dos grupos de jóvenes que discutían y peleaban. Uno de ellos policías disparó ocho veces. Una bala impactó en la cara de Ezequiel, matándolo. Otro chico fue herido en la pierna.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 56,
+        "NumCaso": 6403,
+        "Nombre": "TELLECHEA, Alejandro Fabián",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "5/8/2010",
+        "Año": 2010,
+        "Gestión": "CFK 1",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Estaba detenido desde enero en la comisaría 8ª de la Plata, con graves problemas de salud por los cuales el juzgado de garantías había ordenado varias veces su internación. Cuando finalmente lo trasladaron al hospital en agosto, ya era tarde. Denunciada p",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 57,
+        "NumCaso": 3141,
+        "Nombre": "JUÁREZ Caro, Hugo",
+        "Género": "",
+        "Edad": 27,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "10/2/2011",
+        "Año": 2011,
+        "Gestión": "CFK 1",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Servicio penitenciario bonaerense.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En el juicio oral el fiscal no acusó y los funcionarios fueron absueltos.",
+        "Circunstancias": "Asesinado dentro de la Unidad nº 9. Informada por Comisión Provincial por la Memoria.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 58,
+        "NumCaso": 3746,
+        "Nombre": "MIRIÑAY, Román Gualberto",
+        "Género": "",
+        "Edad": "Mayor",
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "13/4/2011",
+        "Año": 2011,
+        "Gestión": "CFK 1",
+        "Ciudad": "OLMOS",
+        "Imputados": "Policías de la comisaría de Saladillo teniente primero Miguel Ángel Caminos, sargento Rubén Darío Rojas y oficial Héctor Jorge Lanza.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "A pesar de la contundencia de las pericias, la causa fue archivada.",
+        "Circunstancias": "Fue estrangulado por los policías de la comisaría de Saladillo cuando lo trasladaban, esposado, en patrullero a la Unidad Penal 10 de Lisandro Olmos. Caso listado por la Comisión Provincial por la Memoria en su Informe 2012.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0853962, -35.0057117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 59,
+        "NumCaso": 6989,
+        "Nombre": "CANIZZO, Ariel",
+        "Género": "",
+        "Edad": 33,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "21/10/2011",
+        "Año": 2011,
+        "Gestión": "CFK 1",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Capitán Ricardo de la Canal, tenientes Ernesto Conti y Roberto percuoco y oficial principal José Antonio Cáceres.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Condenados a prisión perpetua por homicidio agravado.",
+        "Circunstancias": "Fue detenido y sacado a los golpes de su casa por efectivos policíales de la Comisaría 3ª de Berisso que lo trasladaron a otra dependencia, donde falleció al día siguiente por las torturas sufridas.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 60,
+        "NumCaso": 4479,
+        "Nombre": "SIMONETTI, Rodrigo",
+        "Género": "",
+        "Edad": 11,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 1,
+        "Fecha de Deceso": "5/6/2012",
+        "Año": 2012,
+        "Gestión": "CFK 2",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Apareció muerto a golpes en un descampado. Caso incluido por el defensor de menores Julián Axat en su denuncia ante la Suprema Corte de lo que denominó una seguidilla de homicidios policíales contra menores vulnerables..",
+        "Cod_Circunstancia": 7,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 61,
+        "NumCaso": 3455,
+        "Nombre": "DE LEÓN, Maximiliano \"Juguito",
+        "Género": "",
+        "Edad": 14,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 1,
+        "Fecha de Deceso": "1/8/2012",
+        "Año": 2012,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Daniel Alberto Mannarino.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción, sin más datos.",
+        "Circunstancias": "El policía lo asesinó de un tiro en la espalda desde la ventana de su casa. El adolescente vivía en la calle y estaba \"marcado\" por los policías, quienes constantemente lo asediaban, detenín y golpeaban. Es uno de los casos denunciados como parte del acci",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 62,
+        "NumCaso": 4213,
+        "Nombre": "NICORA, Sebastián",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "14/2/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Efectivos de la Policía Comunal de Verónica y Punta Indio.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "El fiscal apuntó a otro adolescente, que fue sobreseído por el juez y la cámara.",
+        "Circunstancias": "Sebastián apareció muerto en una playa de Punta Indio. Primero se habló de un golpe en la cabeza, pero una reautopsia realizada más de un año después probó que recibió un balazo que atravesó la cabeza, con señales de proximidad del disparo.",
+        "Cod_Circunstancia": 7,
+        "Desaparecidos": "D",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 63,
+        "NumCaso": 1509,
+        "Nombre": "CIGARÁN, Rubén Omar",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "15/2/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Sargento Diego Walter Flores.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Absuelto en 2017 en fallo dividido, confirmado por el tribunal de Casación.",
+        "Circunstancias": "El policía, que iba uniformado en su auto, dijo que Omar lo apuntaba con un arma en su mano izquierda y le disparó al corazón. En el lugar no se encontraron otras armas además de la reglamentaria, pero horas después, en la morgue judicial, el médico polic",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 64,
+        "NumCaso": 1795,
+        "Nombre": "LUCERO, Axel",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "27/2/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial de la policía Buenos Aires 2 Jorge Osvaldo Caballero.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción.",
+        "Circunstancias": "En el barrio de Villa Elvira, el policía dijo que persiguió a dos chicos porque quisieron robarle la moto. Axel murió de un disparo en la cabeza. El defensor de menores Julián Axat incluyó este caso en su denuncia sobre un escuadrón de la muerte en La Pla",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 65,
+        "NumCaso": 4478,
+        "Nombre": "GARAY, Bladimir Matías",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "19/3/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Fusilado por la policía durante una persecución. El caso fue denunciado por el defensor de menores como parte del accionar de un escuadrón de la muerte.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 66,
+        "NumCaso": 3785,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "27/4/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Tres muchachos huían de la policía en un auto. Un patrullero los perseguía a los tiros. El auto de los ladrones chocó, un policía se bajó y mató a uno de ellos de un disparo en la frente.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 67,
+        "NumCaso": 3790,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "4/6/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía federal.",
+        "Cod_Fuerza": "PFA",
+        "Situación Procesal": "El policía fue liberado después de unas horas demorado.",
+        "Circunstancias": "Un joven quiso robarle la moto a un policía de civil. Éste lo mató de un disparo.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 68,
+        "NumCaso": 4002,
+        "Nombre": "ARGÜELLO Canavesio, Franco Emiliano",
+        "Género": "",
+        "Edad": 26,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "5/6/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Cabo de la policía federal del que se reservó identidad.",
+        "Cod_Fuerza": "PFA",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El policía dijo que tres hombres le quisieron robar la moto. Sacó el arma y se identificó, y mató a uno con un disparo que entró por la axila cuando huía.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 69,
+        "NumCaso": 3794,
+        "Nombre": "CABELLO, Laura",
+        "Género": "F",
+        "Edad": 23,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "10/6/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Sargento Santiago López.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Cerrada por muerte del imputado.",
+        "Circunstancias": "Tras una pelea con su esposa, que también era policía, el sargento la mató con su arma reglamentaria y luego se suicidó.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 70,
+        "NumCaso": 3793,
+        "Nombre": "JEREZ, Martín",
+        "Género": "",
+        "Edad": 42,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "10/6/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Capitán Roberto Lezcano; capitán Víctor Bacuco y teniente 1º Jorge López.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Absueltos.",
+        "Circunstancias": "El policía Bacuco mató de un escopetazo al hincha de Lanús durante un partido de fútbol en el que reprimieron a los hinchas.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 71,
+        "NumCaso": 3797,
+        "Nombre": "SALAS, Fabián Alberto",
+        "Género": "",
+        "Edad": 46,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "21/6/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial femenina de la bonaerense.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El hombre quiso acosar a una sargento de la policía bonaerense que se encontraba de civil, en la entrada de su casa, y ella lo mató.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 72,
+        "NumCaso": 3853,
+        "Nombre": "BOWERS, Nélida Soledad",
+        "Género": "F",
+        "Edad": 18,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "29/8/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Sargento Mauricio Aguilera.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Condenado a 10 años y ocho meses por homicidio agravado.",
+        "Circunstancias": "El policía estaba en un restaurante al que entraron a robar unas personas. Se identificó y todos fugaron. No conforme, los persiguió a los tiros, y mató a la chica, que pasaba por la vereda.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 73,
+        "NumCaso": 3883,
+        "Nombre": "AYALA, Adrián Miguel",
+        "Género": "",
+        "Edad": 21,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "11/9/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Un policía del Grupo de Apoyo Departamental de La Plata, hirió a Adrian de diez disparos, uno de ellos en el torax, tras un supuesto intento de robo. El joven estuvo internado seis días en el hospital San Martín, hasta que falleció.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 74,
+        "NumCaso": 3845,
+        "Nombre": "PERALTA, Luciano",
+        "Género": "",
+        "Edad": 34,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "28/10/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción.",
+        "Circunstancias": "Fue a la casa de su ex mujer, a pedido de ella, a cuidar a los chicos. Un vecino pensó que era un ladrón y llamó a la policía. Lo detuvieron a pesar de sus explicaciones y encerraron en una celda de la comisaría de Ringuelet. Al día siguiente lo llevaron",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 75,
+        "NumCaso": 4018,
+        "Nombre": "MOGICA, Brian \"Toty",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "19/11/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial de la policía Carlos Benjamín Yuget, de la custodia del gobernador Scioli.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "El policía no está imputado, mientras que Raúl está acusado por tentativa de robo.",
+        "Circunstancias": "Brian y su amigo Raúl Villalba, de un barrio periférico de La Plata, iban en moto cuando se cruzaron con el policía, también en moto. Discutieron por una maniobra. El policía sacó su arma reglamentaria, hirió a Raúl y mató a Brian, ambos por la espalda.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 76,
+        "NumCaso": 3995,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "19/11/2013",
+        "Año": 2013,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Subteniente Gabriel Benjamín Yuguet, custodio del gobernador Scioli.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Según la versión oficial, cuatro jóvenes rodearon al policía para robar al policía, que sacó su arma, mató a uno e hirió a otro. No se encontraron otras armas.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 77,
+        "NumCaso": 4032,
+        "Nombre": "PERUSSATTO, Ismael \"Beibi",
+        "Género": "",
+        "Edad": 20,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "12/2/2014",
+        "Año": 2014,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial del Grupo Halcón, Cristian Daniel Duarte.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido, acusado por doble homicidio.",
+        "Circunstancias": "Tras un supuesto intento de robo, el policía, de franco, disparó por la espalda a dos pibes. Uno murió en el acto, mientras que el segundo fue trasladado al Hospital San Juan de Dios, donde falleció después de 40 días de agonía.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 78,
+        "NumCaso": 4033,
+        "Nombre": "ANDRADA, Mauricio",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "12/2/2014",
+        "Año": 2014,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial del Grupo Halcón, Cristian Daniel Duarte.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido, acusado por doble homicidio.",
+        "Circunstancias": "Tras un supuesto intento de robo, el policía, de franco, disparó por la espalda a dos pibes. El otro murió en el acto, mientras que Mauricio, con un tiro en el pulmón y la médula, fue trasladado al Hospital San Juan de Dios, donde falleció después de 40 d",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 79,
+        "NumCaso": 5056,
+        "Nombre": "JARA, Martín",
+        "Género": "",
+        "Edad": 20,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "30/3/2014",
+        "Año": 2014,
+        "Gestión": "CFK 2",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Personal de la comisaría 3ª de Los Hornos.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Fue detenido porque hubo un llamado al 911 denunciando que había una persona sentada y gritando en el fondo de una casa. Le tuvieron que inmovilizar un brazo con un vendaje por las lesiones que tenía. Horas después, apareció ahorcado en una celda que esta",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 80,
+        "NumCaso": 4035,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 25,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "31/3/2014",
+        "Año": 2014,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía de la comisaría 3ª de La Plata (Los Hornos).",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El joven estaba detenido por un delito menor en la comisaría de Los Hornos. Según la versión oficial, se ahorcó con una venda que le habían puesto en el brazo.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 81,
+        "NumCaso": 4167,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "31/7/2014",
+        "Año": 2014,
+        "Gestión": "CFK 2",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Miembro del ejército de 27 años.",
+        "Cod_Fuerza": "Otras Fuerzas",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El militar dijo que tres chicos quisieron entrar a su casa. Mató a uno de ellos.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 82,
+        "NumCaso": 4292,
+        "Nombre": "N.N. Masculino",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "11/12/2014",
+        "Año": 2014,
+        "Gestión": "CFK 2",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Oficial del CPC.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El policía le pegó un tiro en la cabeza porque el pibe lo quiso robar.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 83,
+        "NumCaso": 4366,
+        "Nombre": "DUARTE, Pablo",
+        "Género": "",
+        "Edad": 30,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "23/5/2015",
+        "Año": 2015,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial subayudante Rodrigo Molina, de la comisaría de Lanús, y su hermanastro, policía de Quilmes.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Molina fue detenido por homicidio doblemente agravado. El otro está prófugo.",
+        "Circunstancias": "Duarte estaba en un pub, celebrando algo con su familia. Descorcharon una botella de champán y salpicaron sin querer a la mesa de al lado, donde estaban los policías, que iniciaron una pelea. Ya fuera del bar, el policía le disparó a Duarte en el pecho co",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 84,
+        "NumCaso": 4495,
+        "Nombre": "N.N. JP",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "16/6/2015",
+        "Año": 2015,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Personal del Instituto Almafuerte.",
+        "Cod_Fuerza": "Otras Fuerzas",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Estaba encerrado en su celda por un altercado cque tuvo el dái anterior con otro chico. Lo encontraron ahorcado.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 85,
+        "NumCaso": 4372,
+        "Nombre": "BARGAS, Cristian",
+        "Género": "",
+        "Edad": 20,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "7/6/2015",
+        "Año": 2015,
+        "Gestión": "CFK 2",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Policía de Tolosa.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Después de robar un auto, escapaba, pero fue interceptado por la policía. Un patrullero lo chocó de atrás, por lo que impactó contra un portón. Se bajó y alcanzó a correr unos 20 metros, pero le dispararon en la cabeza. Murió después de unas horas.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 86,
+        "NumCaso": 4353,
+        "Nombre": "P., J.",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "16/7/2015",
+        "Año": 2015,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Personal de minoridad del Instituto Almafuerte.",
+        "Cod_Fuerza": "Otras Fuerzas",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Apareció ahorcado en la celda. El día anterior había sido encerrado como sanción disciplinaria. Denunciado por Comisión Provincial por la Memoria.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 87,
+        "NumCaso": 4561,
+        "Nombre": "YALET, Juan Martín",
+        "Género": "",
+        "Edad": 35,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "26/8/2015",
+        "Año": 2015,
+        "Gestión": "CFK 2",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policías Cristian Caffa, Mónica Arias, Walter Fernando Rodríguez Muller, Daniela Aprea, Michael López González, Luciano Díaz, Patricia del Carmen Paris y Laura Gutiérrez.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Los ocho fueron detendidos por homicidio triplemente agravado por alevosía, abuso de funciones, y por haber sido cometido mediante el empleo de arma de fuego, en concurso real con la falsificación material e ideológica de instrumento público.",
+        "Circunstancias": "Había sido reducido tras intentar una entradera en un domicilio de la ciudad de La Plata. Fue cacheado, esposado a la espalda e ingresado un patrullero del CPC (Comando de Prevención Comunitaria). Dentro del vehículo, una bala 9 mm atravesó su cabeza de s",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 88,
+        "NumCaso": 4658,
+        "Nombre": "N.N. Masculino Menor",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "18/1/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Dos pibes trataron de robar a un policía que viajaba en moto. El efectivo, de civil, simuló que iba a entregarles el vehículo, y cuando se iban les disparó: mató a uno y detuvo al otro.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 89,
+        "NumCaso": "",
+        "Nombre": "IBARRA, Walter Oscar",
+        "Género": "",
+        "Edad": 49,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "18/1/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "VILLA ARGÜELLO",
+        "Imputados": "Leandro José (victimario, no sabemos si esá imputado)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Femicidio vinculado",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9512791, -34.9148288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 90,
+        "NumCaso": 4808,
+        "Nombre": "ÁLVAREZ, Ezequiel \"Tata\" Alberto",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "19/1/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Sargento Cristian Vicenti, del CPC Berisso. Comando de patrulla.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Declaró y quedó en libertad por legítima defensa.",
+        "Circunstancias": "El pibe fue llevado por un cadete del servicio penitenciario a robar una moto. El dueño de la moto, policía, se bajó de la moto y simuló entregarla, sacó su arma reglamentaria y efectuó tres disparos contra el muchacho. El pibe era familiar de Víctor Eman",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 91,
+        "NumCaso": 4668,
+        "Nombre": "RAMÍREZ, Giselle Astrid",
+        "Género": "F",
+        "Edad": 24,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "28/2/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "CITY BELL",
+        "Imputados": "Walter José Tappa, teniente de la comisaría 10ª.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Cerrada por muerte del imputado.",
+        "Circunstancias": "El policía asesinó dentro de su auto a su pareja y luego se suicidó.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.087262, -34.8921021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 92,
+        "NumCaso": 4725,
+        "Nombre": "N.N. Santiago (puede ser Mengarelli, Santiago Andrés)",
+        "Género": "",
+        "Edad": 16,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "5/3/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "VILLA ELISA",
+        "Imputados": "Mariano Sebastián Marano, oficial del GAD de Florencia Varela. (CPM marca como victimario a Lavat Gaston)",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sobreseído por legítima defensa.",
+        "Circunstancias": "Santiago y otros tres chicos intentaron robar una moto. El policía, que iba de civil en su auto particular, los vio y le disparó en la cara. Los otros tres escaparon.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1167189, -34.8606563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 93,
+        "NumCaso": "",
+        "Nombre": "AYBAR, Elvio German",
+        "Género": "",
+        "Edad": 44,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "11/7/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Ayala Ismael Alejandro, patrullero (victimario, no sabemos si está imputado)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Patrullero atropella a una moto",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 94,
+        "NumCaso": 4809,
+        "Nombre": "PIMENTEL, Marcos",
+        "Género": "",
+        "Edad": 41,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "12/7/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Ex suboficial Norberto Alfredo Espíndola.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Fue detenido y quedó imputado por homicidio simple.",
+        "Circunstancias": "Espíndola y Pimentel discutieron porque chocaron con sus autos. La v´ctima subió a su vehículo y se fue. El policía lo siguió y dos cuadras más adelante le disparó en el pecho, matándolo en el acto.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 95,
+        "NumCaso": "",
+        "Nombre": "CAMPOS, Hilda Emilia",
+        "Género": "F",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "14/7/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Victimarios: Saraubbi Silvana Soledad y Alicandro Rafael Enrique (no sabemos si están imputados)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Sin datos",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 96,
+        "NumCaso": 4745,
+        "Nombre": "LUNA, Guillermo",
+        "Género": "",
+        "Edad": 65,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "22/8/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "GORINA",
+        "Imputados": "Sergio Maydana, ex policía y ñoqui del intendente Garro de la Plata, y su pareja Flavia Silvana Rodríguez, policía de Gonnet.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Están prófugos.",
+        "Circunstancias": "Un médico cirujano con varias causas por malapraxis y estafas, y su mujer cosmetóloga, fueron encontrados muertos en una camioneta, ella con tres disparos 9 mm y él con dos calibre .45. Se ha ido develando una trama de ajustes y mejicaneadas vinculada al",
+        "Cod_Circunstancia": 4,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.058456, -34.9066342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 97,
+        "NumCaso": 4744,
+        "Nombre": "FAVRE, Laura Silvana",
+        "Género": "F",
+        "Edad": 42,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "22/8/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "GORINA",
+        "Imputados": "Sergio Maydana, ex policía y ñoqui del intendente Garro de la Plata, y su pareja Flavia Silvana Rodríguez, policía de Gonnet.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Están prófugos.",
+        "Circunstancias": "Un médico cirujano con varias causas por malapraxis y estafas, y su mujer cosmetóloga fueron encontrados muertos en una camioneta, ella con tres disparos 9 mm y él con dos calibre .45. Se ha ido develando una trama de ajustes y mejicaneadas vinculada al n",
+        "Cod_Circunstancia": 4,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.058456, -34.9066342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 98,
+        "NumCaso": "",
+        "Nombre": "BOTIAS CHÁVEZ, Horacio Alberto",
+        "Género": "",
+        "Edad": 39,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "23/8/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "OLMOS",
+        "Imputados": "Leandro Pedro Cari (victimario, no está imputado porque falleció)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El policía también muere por el tiroteo, habían ingresado a su vivienda.",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0853962, -35.0057117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 99,
+        "NumCaso": 4750,
+        "Nombre": "GONZÁLEZ, Víctor Emanuel",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "24/8/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial, se sospecha del jefe de calle de la Cría. 9ª, Guillermo Salas.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción, dos meses después del hecho la familia no había podido acceder a la causa.",
+        "Circunstancias": "Apareció muerto con un disparo en la espalda en 1 y 60, frente al Cuerpo de Caballería de la Policía Bonaerense, el Registro de las Personas y la Fiscalía de Estado. La familia y vecinos sostienen que fue el policía Salas, de larga historia represora.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 100,
+        "NumCaso": 4771,
+        "Nombre": "VELÁZQUEZ, Jorge Maximiliano",
+        "Género": "",
+        "Edad": 41,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "20/9/2016",
+        "Año": 2016,
+        "Gestión": "Macri",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Apareció muerto en un calabozo, estaba detenido acusado por el robo de un celular. Presentaba un golpe en la cabeza y la autopsia preliminar indicó muerte por consumo de estupefacientes.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 101,
+        "NumCaso": 5076,
+        "Nombre": "ROJO, Gerónimo",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "6/3/2017",
+        "Año": 2017,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Comisario retirado Aníbal Díaz.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Estuvo detenido un par de días, pero lo liberaron por considerar que actuó en ejercicio de la legítima defensa.",
+        "Circunstancias": "El comisario salía de un cajero automático en el barrio de San Carlos, cuando dos jóvenes en moto intentaron robarle. Disparó 8 veces su Glock .40 contra ambos cuando intentaban escapar. Iván murió en el lugar, con un disparo en la cabeza. Gerónimo Rojo f",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 102,
+        "NumCaso": 5075,
+        "Nombre": "BARBOZA, Iván Rodrigo",
+        "Género": "",
+        "Edad": 26,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "6/3/2017",
+        "Año": 2017,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Comisario retirado Aníbal Díaz.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Estuvo detenido un par de días, pero lo liberaron por considerar que actuó en ejercicio de la legítima defensa.",
+        "Circunstancias": "El comisario salía de un cajero automático en el barrio de San Carlos, cuando dos jóvenes en moto intentaron robarle. Disparó 8 veces su Glock .40 contra ambos cuando intentaban escapar. Iván murió en el lugar, con un disparo en la cabeza. Gerónimo Rojo f",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 103,
+        "NumCaso": 5096,
+        "Nombre": "VARGAS, Nicolás",
+        "Género": "",
+        "Edad": "19/18",
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "2/4/2017",
+        "Año": 2017,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía Rodrigo Laurent (sargento)",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción.",
+        "Circunstancias": "El joven iba en moto con un amigo cuando empezaron a ser perseguidos por un patrullero de la Subcomisaria La Unión, en la zona Oeste de La Plata. El amigo se dejó caer de la moto y a Nicolás le dispararon en la cabeza en la intersección de las calles 38 y",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 104,
+        "NumCaso": 5284,
+        "Nombre": "CAMPOS, Maximiliano Ariel",
+        "Género": "",
+        "Edad": 25,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "17/8/2017",
+        "Año": 2017,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía local Armando Fabián Banome.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción.",
+        "Circunstancias": "Estaba en la esquina de su casa con un amigo cuando alguien llamó a la policía porque había cuatro personas encapuchadas en la cuadra. Lo quisieron identificar, huyó y le dispararon al estómago.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 105,
+        "NumCaso": 5202,
+        "Nombre": "BARDALES Sangama, Brandy",
+        "Género": "FT",
+        "Edad": 43,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "10/9/2017",
+        "Año": 2017,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Tercera mujer trans muerta en situación de detención en el año. Era migrante peruana y militante de OTRANS. La policía allanó la pensión donde vivía, y ella ingresó a la comisaría con convulsiones y vomitando sangre. Sus compañeras reclamaron el traslado",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "FT",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 106,
+        "NumCaso": "",
+        "Nombre": "HERRERA, Carlos",
+        "Género": "",
+        "Edad": 30,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "30/4/2018",
+        "Año": 2018,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía del comando de patrulla (no identificada su identidad)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Persecución",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 107,
+        "NumCaso": "",
+        "Nombre": "MARCHAN, Eduardo",
+        "Género": "",
+        "Edad": 28,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "12/10/2018",
+        "Año": 2018,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Emiliano Ezequiel Avila (victimario, no sabemos si está imputado)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Sin datos.",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 108,
+        "NumCaso": 5953,
+        "Nombre": "PEÑALBA, Ciro",
+        "Género": "",
+        "Edad": 10,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 1,
+        "Fecha de Deceso": "27/11/2018",
+        "Año": 2018,
+        "Gestión": "Macri",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Ex policía bonaerense Juan Cruz Chirino.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Cerrada por muerte del imputado.",
+        "Circunstancias": "Mató a su hijastro a puñaladas, disparó en la cabeza a la madre, su pareja, que sobrevivió, y después de estar 8 horas atrincherado en la casa con sus tres hijos pequeños, se pegó un tiro.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "FR",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 109,
+        "NumCaso": 5904,
+        "Nombre": "GONZÁLEZ, Mario \"El Chino",
+        "Género": "",
+        "Edad": 37,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "20/12/2018",
+        "Año": 2018,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial del Comando de Patrulla de La Plata Arturo Salazar.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Fue detenido, imputado por homicidio agravado por ser integrante de la fuerza. También están imputados otros dos policías por falso testimonio.",
+        "Circunstancias": "El policía disparó tres veces con su escopeta cargada con proyectiles antidisturbios a corta distancia contra un cuidacoches. Dos de las postas, a corta distancia, le causaron la muerte horas después. La versión del policía fue que hubo un llamado al 911",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 110,
+        "NumCaso": "",
+        "Nombre": "MARINCOVICH, Matias Jesús",
+        "Género": "",
+        "Edad": 18,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "2/1/2019",
+        "Año": 2019,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Fernando Baldello, comando de patrulla, capitán (victimario, no sabemos si está imputado)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Sin datos",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 111,
+        "NumCaso": "",
+        "Nombre": "GUTIÉRREZ, Laura Romina",
+        "Género": "F",
+        "Edad": 30,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "25/8/2019",
+        "Año": 2019,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Danilo Acevedo (victimario, no sabemos si está imputado)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "",
+        "Circunstancias": "Femicidio",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 112,
+        "NumCaso": 6975,
+        "Nombre": "ACOSTA, Jonatan Ezequiel \"Pajarito",
+        "Género": "",
+        "Edad": 24,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "3/9/2019",
+        "Año": 2019,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "El muchacho trató de robar la moto del policía, que le disparó y lo mató.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 113,
+        "NumCaso": 7330,
+        "Nombre": "DÍAS, Pedro Fernando",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": 6,
+        "Fecha de Deceso": "21/9/2019",
+        "Año": 2019,
+        "Gestión": "Macri",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Comisaría 8ª de La Plata.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Informada por la Comisión Provincial por la Memoria sin indicar causa de la muerte.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 114,
+        "NumCaso": "",
+        "Nombre": "COLMAN, Ian Isaac",
+        "Género": "",
+        "Edad": 3,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "7/10/2019",
+        "Año": 2019,
+        "Gestión": "Macri",
+        "Ciudad": "MELCHOR ROMERO",
+        "Imputados": "Patrullero",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Accidente de tránsito con patrullero",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0836601, -34.9471028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 115,
+        "NumCaso": "",
+        "Nombre": "NUÑEZ GAUTO, Epifanio",
+        "Género": "",
+        "Edad": 51,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "19/1/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "MELCHOR ROMERO",
+        "Imputados": "Sizuk, Leandro Hernan (victimario, no sabemos si está imputado)",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Orden de allanamiento y/o detención. Uso del arma reglamentaria",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0836601, -34.9471028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 116,
+        "NumCaso": 7246,
+        "Nombre": "FERNÁNDEZ, Lucas Matias",
+        "Género": "",
+        "Edad": 26,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "20/1/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "ARTURO SEGUÍ",
+        "Imputados": "Camila Pérez, oficial de la policía de la Ciudad y su marido, Fernando Ramírez, policía bonaerense de Berazategui.",
+        "Cod_Fuerza": "PC",
+        "Situación Procesal": "La mujer policía fue detenida por homicidio agravado y lesiones agravadas. El bonaerense se profugó.",
+        "Circunstancias": "La mujer policía de la Ciudad, su marido de la Bonaerense y un hermano de ella llegaron en auto a la casa de Fernández, porque acusaban a un amigo de él de haber robado la bicicleta al hermano de la policía. Cuando los varones se trenzaron a golpes con va",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1905151, -34.9190538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 117,
+        "NumCaso": "",
+        "Nombre": "MILEI, Damián",
+        "Género": "",
+        "Edad": 33,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "25/4/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Comando de patrullas, uso del arma de fuego reglamentaria",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Sin datos",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 118,
+        "NumCaso": "",
+        "Nombre": "SEGOVIA, Francisco",
+        "Género": "",
+        "Edad": 52,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "25/4/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Uso del arma de fuego reglamentaria",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Sin datos",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 119,
+        "NumCaso": "",
+        "Nombre": "OBREGÓN, José Rodolfo",
+        "Género": "",
+        "Edad": "Sin datos",
+        "Mayor/Menor": "Sin datos",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "4/7/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Cristián Almiró, patrullero de la Policía Local",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Accidente de tránsito con patrullero",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 120,
+        "NumCaso": 7492,
+        "Nombre": "MANAVELLA, Pablo",
+        "Género": "",
+        "Edad": 20,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "5/9/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "VILLA ELISA",
+        "Imputados": "Un oficial y una sargento del Comando Patrullas de Lanús.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "La pareja de policías vio cuando dos personas entraban a robar a una pizzería. Se identificaron y sacaron sus armas. Los dos jóvenes huyeron. Uno recibió un disparo que lo mató, el otro, de 18 años, fue herido y detenido.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1167189, -34.8606563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 121,
+        "NumCaso": "",
+        "Nombre": "RÍOS, Matias Ezequiel",
+        "Género": "",
+        "Edad": 19,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "5/9/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "VILLA ELVIRA",
+        "Imputados": "Comando de patrullas",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Arma de fuego reglamentaria",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9090195, -34.9521704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 122,
+        "NumCaso": 7563,
+        "Nombre": "COSTILLA, Néstor Ramón \"Lito",
+        "Género": "",
+        "Edad": 28,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "7/10/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "TOLOSA",
+        "Imputados": "Policías Damián Antonio Aquino, Mauricio Rodríguez Medina y Sergio Ceferino Martínez (Policia Local)",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción. En enero de 2023 se ordenó la detención de los policías.",
+        "Circunstancias": "Lito, que trabajaba haciendo delivery en moto para una parrilla, volvía a la casa de su madre. Dos motos policíales lo persiguieron y forzaron a caer al piso. Después de caer, lo patearon. La versión del accidente de tránsito es refutada por la familia, q",
+        "Cod_Circunstancia": 7,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0012147, -34.8999454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 123,
+        "NumCaso": 7352,
+        "Nombre": "SAUCEDO, Nazareno",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "14/10/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Personal del Instituto de Menores Almafuerte.",
+        "Cod_Fuerza": "Otras Fuerzas",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Alojado en el Instituto Almafuerte, lo encontraron ahorcado.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 124,
+        "NumCaso": 7594,
+        "Nombre": "STIRZ, Santiago",
+        "Género": "",
+        "Edad": 34,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "15/12/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Tres policías de la comisaría 4ª de La Plata.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción.",
+        "Circunstancias": "El joven, conocido músico local, iba en bicicleta cuando fue asaltado para robarle la mochila y la guitarra que llevaba. Le pegaron un tiro en la cabeza. Se descubrió que hubo varios llamados a emergencias previos al robo y disparo que pudieron evitarlo,",
+        "Cod_Circunstancia": 4,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 125,
+        "NumCaso": "",
+        "Nombre": "N.N",
+        "Género": "",
+        "Edad": 31,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "17/12/2020",
+        "Año": 2020,
+        "Gestión": "Fernández",
+        "Ciudad": "EL PELIGRO",
+        "Imputados": "Comando de patrullas",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Persecución",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.2019404, -34.947389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 126,
+        "NumCaso": 7801,
+        "Nombre": "N.N. Masculino - Cañedo, Maximiliano Javier",
+        "Género": "",
+        "Edad": 37,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "5/3/2021",
+        "Año": 2021,
+        "Gestión": "Fernández",
+        "Ciudad": "ARANA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Es aprehendido, lo trasladan a la comisaría. Luego lo llevan a reconocimiento, donde \"sufrió un percance\" y entró en paro.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.8880397, -35.002055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 127,
+        "NumCaso": 7666,
+        "Nombre": "DE LUCCA, Cielo (MT)",
+        "Género": "FT",
+        "Edad": "20 / 24",
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "10/5/2021",
+        "Año": 2021,
+        "Gestión": "Fernández",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Oficial Juan Ignacio Soto (UTOI)",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Cerrada por muerte del imputado.",
+        "Circunstancias": "La joven mujer trans era vecina y amiga de la novia del policía, que mató a ambas con su arma reglamentaria, y escapó. Cuando lo estaban por detener, se suicidó.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "FT",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 128,
+        "NumCaso": 7665,
+        "Nombre": "SANDOVAL, Florencia",
+        "Género": "F",
+        "Edad": 23,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "10/5/2021",
+        "Año": 2021,
+        "Gestión": "Fernández",
+        "Ciudad": "LOS HORNOS",
+        "Imputados": "Oficial Juan Ignacio Soto (UTOI)",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Cerrada por muerte del imputado.",
+        "Circunstancias": "El policía mató de un balazo a su novia y a una vecina, mujer trans, que intentó auxiliarla. Escapó, y cuando lo estaban por atrapar se suicidó.",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0090524, -34.978664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 129,
+        "NumCaso": 8257,
+        "Nombre": "N.N. Masculino - Antonio Silvio (o Cirilo)",
+        "Género": "",
+        "Edad": 51,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "20/9/2021",
+        "Año": 2021,
+        "Gestión": "Fernández",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Se encontraba detenido en la seccional desde el 11 de agosto por robo calificado y había solicitado atención médica durante ese mismo día por una insuficiencia pulmonar. El SAME llegó a la dependencia policial y, luego de asistirlo, decidió que no era un caso de urgencia por lo que dispuso que no era necesario su traslado hacia el hospital. En esos momentos, el hombre volvió a descompensarse y falleció.",
+        "Cod_Circunstancia": 2,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 130,
+        "NumCaso": 7744,
+        "Nombre": "GUTIÉRREZ, Marta Susana",
+        "Género": "F",
+        "Edad": 74,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "21/11/2021",
+        "Año": 2021,
+        "Gestión": "Fernández",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Policía bonaerense retirado Martín Alberto Fallico Gutiérrez.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Detenido por homicidio calificado.",
+        "Circunstancias": "Golpeó a su mamá en la cabeza, la decapitó con dos cuchillos, puso la cabeza en una bolsa de residuos, tapó el resto del cuerpo con una frazada, se bañó y fue a entregarse a la comisaría, donde dijo que la mató \"por orden de los marcianos\".",
+        "Cod_Circunstancia": 3,
+        "Desaparecidos": "",
+        "Femicidios": "F",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 131,
+        "NumCaso": 8215,
+        "Nombre": "GARCÍA, Nicolás Natanael",
+        "Género": "",
+        "Edad": 17,
+        "Mayor/Menor": "Hasta 25",
+        "Cod_Edad": 2,
+        "Fecha de Deceso": "30/1/2022",
+        "Año": 2022,
+        "Gestión": "Fernández",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial Julio Andrés Ramos.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción.",
+        "Circunstancias": "El policía, fuera de servicio, hacía tareas de delivery. Dijo que lo quisieron asaltar y disparó tres veces contra el pibe, que estaba desarmado.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 132,
+        "NumCaso": 8431,
+        "Nombre": "ROJAS, Cristian Eleno",
+        "Género": "",
+        "Edad": 40,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "16/2/2022",
+        "Año": 2022,
+        "Gestión": "Fernández",
+        "Ciudad": "GONNET",
+        "Imputados": "Policía provincial (comando patrulla)",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos.",
+        "Circunstancias": "En plena persecución, los policías forzaron al conductor de un auto a estrellarse contra una casa. Rojas murió unas horas después. Informada por CPM.",
+        "Cod_Circunstancia": 7,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0525686, -34.8933051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 133,
+        "NumCaso": 8437,
+        "Nombre": "SILVA, Lilia Mabel",
+        "Género": "F",
+        "Edad": 57,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 5,
+        "Fecha de Deceso": "13/3/2022",
+        "Año": 2022,
+        "Gestión": "Fernández",
+        "Ciudad": "VILLA ELVIRA",
+        "Imputados": "Policía provincial.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción cinco detenidos.",
+        "Circunstancias": "La mujer estaba en su casa celebrando el cumpleaños de uno de sus hijos cuando cuando cinco individuos, entre ellos un policía, a los que no se permitió ingresar, dispararon contra la casa. La mujer murió y uno de los invotados recibió un disparo en la pi",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9090195, -34.9521704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 134,
+        "NumCaso": 8451,
+        "Nombre": "SALINAS, Cristian Alejandro",
+        "Género": "",
+        "Edad": 26,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 3,
+        "Fecha de Deceso": "13/6/2022",
+        "Año": 2022,
+        "Gestión": "Fernández",
+        "Ciudad": "MELCHOR ROMERO",
+        "Imputados": "Policia provincial (DDI)",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "Sin datos.",
+        "Circunstancias": "El hombre tenía orden de captura porque se había evadido de una cárcel. La policía lo rodeó y lo acribillaron. Informada por CPM.",
+        "Cod_Circunstancia": 1,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0836601, -34.9471028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 135,
+        "NumCaso": 8229,
+        "Nombre": "SALAS, Carolina Eugenia",
+        "Género": "F",
+        "Edad": 39,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": 4,
+        "Fecha de Deceso": "19/7/2022",
+        "Año": 2022,
+        "Gestión": "Fernández",
+        "Ciudad": "LA PLATA",
+        "Imputados": "Oficial de la policía Yanina Todisco y su pareja, José Alberto Olgiatti.",
+        "Cod_Fuerza": "PP",
+        "Situación Procesal": "En instrucción. Ambos están imputados por el homicidio de la nena y sospechados de vinculación en el de la abuela. La mujer policía fue excarcelada.",
+        "Circunstancias": "La mujer policía y su pareja eran parte de una banda que estafaba  con la venta trucha de inmuebles. Una familia afectada ocupó la casa que creían haber comprado. Un grupo de personas fue a echarlos, y dispararon más de 13 veces. Uno de los disparos impac",
+        "Cod_Circunstancia": 4,
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.9638639, -34.9188448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": 136,
+        "NumCaso": "",
+        "Nombre": "PERALTA GUARDIA, Néstor Domingo",
+        "Género": "",
+        "Edad": 65,
+        "Mayor/Menor": "Más de 25",
+        "Cod_Edad": "",
+        "Fecha de Deceso": "2/8/2022",
+        "Año": 2022,
+        "Gestión": "Fernández",
+        "Ciudad": "MELCHOR ROMERO",
+        "Imputados": "Sin datos",
+        "Cod_Fuerza": "",
+        "Situación Procesal": "Sin datos",
+        "Circunstancias": "Problema de salud. Muere en un hospital.",
+        "Cod_Circunstancia": "",
+        "Desaparecidos": "",
+        "Femicidios": "",
+        "Campo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.0836601, -34.9471028]
+      }
+    }
+  ]
+}
