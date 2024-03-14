@@ -56,3 +56,23 @@ Para las seccionales no hay informacion en un formato estandar, lo que conseguim
 Es importante aprovechar esta etapa para colocar informacion importante en las propiedades de cada poligono, como el nombre de la seccional y datos graficos como el color.
 
 Para las comisarias se hizo un relevamiento, pero tambien hubo disponibilidad de datos abiertos (desactualizados pero sirve como base para arrancar).
+
+## Coneccion con la base de datos
+
+El proyecto utiliza una base de datos postgress (sql) de [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres), y un ORM para manejar la coneccion y las migraciones de la base de datos, el ORM que se utiliza es [Drizzle](https://orm.drizzle.team/). Toda la configuracion de conexion, migraciones y seeders (datos iniciales) se encuentra en la carpeta `src/modules/DB`. EN caso de querer usar otro proveedor de base de datos, se puede cambiar la configuracion en el archivo `src/modules/DB/index.ts`.
+En caso de querer usar otro tipo de infraestructura, cada modulo del sistema tiene su propia estructura de repositorio, por lo que habria que generar un nuevo repositorio en la carpeta `Infrastructure` y luego inyectar ese repositorio.
+Para descargar las variables de entorno del proyecto de vercel, se puede usar el siguiente comando:
+
+```bash
+npx vercel login
+npx vercel env pull
+```
+
+#### Migraciones
+
+```bash
+# generar las migraciones al iniciar el proyecto y cada vez que se modifique el modelo de datos
+npm run generate-migrations
+# aplicar las migraciones
+npm run migrate
+```
