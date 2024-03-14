@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Esto es un projecto de [Next.js](https://nextjs.org/), el framework de React para producción más usado.
 
-## Getting Started
+Aquí tienes videos en español para aprender a usar Next.js:
+[Tutorial Next](https://www.youtube.com/watch?v=jMy4pVZMyLM) |
+[Tutorial Server Actions](https://www.youtube.com/watch?v=m6KESRxAdK4)
 
-First, run the development server:
+## Inicio Rápido
+
+Herramientas necesarias para el desarrollo y despliegue:
+
+- [Node.js](https://nodejs.org/en/download/)
+- [npm](https://www.npmjs.com/get-npm) (instalado con Node.js)
+- [Vercel](https://vercel.com/) (esta es la plataforma de despliegue que usamos, la cuenta es gratuita y se puede vincular con el repositorio de github para hacer despliegues automáticos, ademas tiene servicio de base de datos)
+- [Github CLI](https://cli.github.com/) (opcional, pero recomendado para clonar el repositorio)
+
+Primero, clona el repositorio e instala las dependencias:
 
 ```bash
+git clone git@github.com:seba-wetzel/mapa-policia-laplata.git
+#Si tenes github cli instalado podes clonar el repositorio con el siguiente comando
+gh repo clone seba-wetzel/mapa-policia-laplata
+cd mapa-policia-laplata && npm install
+ #inicia el servidor de desarrollo
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abri la siguiente url local [http://localhost:3000](http://localhost:3000) para ver el proyecto en tu navegador.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Este proyecto ademass utiliza [`Tailwind`](https://tailwindcss.com/) para acelarar el desarrollo de la interfaz de usuario. Podes encontrar la documentación de Tailwind [aquí](https://tailwindcss.com/docs).
+Tailwind es un framework de CSS que permite usar utility classes para estilizar los componentes, esto permite acelerar el desarrollo.
 
-## Learn More
+Para secciones especificas donde se neceito componentes mas complejos visualmente se utilizaron componentes de [`shadcn/ui`](https://ui.shadcn.com/) (no es una libreria de componentes ni un framework, son componentes que se pueden copiar y pegar en el proyecto, no es necesario instalar nada)
 
-To learn more about Next.js, take a look at the following resources:
+## Como se hacen los mapas?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+En la mayoria de los casos no se va a encontrar ninguna de la informacion necesaria para hacer un mapa con la division del distrito, las seccionales (este es un termino de la policia bonaerense, en otras provincias puede ser diferente) y las comisarias de cada seccional. Por lo que se tuvo que hacer un relevamiento de la informaciony de manera "artesanal" generar los poligonos de cada distrito, seccional y comisaria.
+Lo primero es conseguir el poligono del distrito, este lo conseguimos de una pagina de datos abiertos del gobierno de la provincia de Buenos Aires, en formato GeoJson. Este archivo en realiadad contienen todos los distritos de la provincia, por lo que se tuvo que filtrar el distrito de La Plata, para esto dentro de la carpeta tools hay un script que se encarga de hacer esto, el script se llama `filterGEOJsonByProperties.mjs` y se ejecuta con el siguiente comando:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+node ./tools/filterGEOJsonByPropertie.mjs  --filter="cde=06441" --input=./geo/raw/limite_partidos.geojson --output=./geo/seccionales_la-plata.geojson
+```
 
-## Deploy on Vercel
+El script toma un archivo geojson de entrada, y filtra los poligonos que cumplan con la condicion que se le pasa por parametro, en este caso la condicion es que el campo `cde` sea igual a `06441` que es el codigo del distrito de La Plata. El archivo de salida es un geojson con solo el poligono del distrito de La Plata.
+Este script puede servir de punto de partida para otros casos donde se necesite filtrar un archivo geojson por propiedades, o para entender como se contruye un GeoJson.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Cargando este geojsn en [GeoJson.io](https://geojson.io/) podemos ver si el poligono es correcto, y si no lo es, podemos editarlo manualmente. Una vez que el poligono del distrito es correcto, se puede exportar el archivo y guardarlo en la carpeta `src/data/geo` con la extension `.json` (esto para no tener que usar un loader).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Contorno](docs/imgs/contorno.png)
+
+Para las seccionales no hay informacion en un formato estandar, lo que conseguimos fue un pdf (esta en la carpeta docs si lo quieren ver) con un mapa como imagen donde se podian ver las calles que delimitaban cada seccional, asi que fue cuestion de dibujar los poligonos en [GeoJson.io](https://geojson.io/) y exportar el archivo. Una vez que el poligono de la seccional es correcto, se puede exportar el archivo y guardarlo en la carpeta `src/data/geo` con la extension `.json` (esto para no tener que usar un loader).
+
+![Seccional](docs/imgs/seccional.png)
+
+Es importante aprovechar esta etapa para colocar informacion importante en las propiedades de cada poligono, como el nombre de la seccional y datos graficos como el color.
+
+Para las comisarias se hizo un relevamiento, pero tambien hubo disponibilidad de datos abiertos (desactualizados pero sirve como base para arrancar).
