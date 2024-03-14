@@ -1,5 +1,5 @@
 import AnchorButton from "@/components/AnchorButton";
-import { cn } from "@/utils/tailwindUtils";
+import { cn } from "@/lib/utils";
 import { FC } from "react";
 
 //default function FC type that accepts className

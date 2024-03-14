@@ -17,7 +17,9 @@ export default function Home() {
   );
   const [selectedComisaria, setSelectedComisaria] =
     useState<GeoJsonProperties | null>(null);
+ 
 
+  //TODO: Todo esto deberia estar en un hook
   const searchParams = useSearchParams();
   const pathname = usePathname();
   const { replace } = useRouter();

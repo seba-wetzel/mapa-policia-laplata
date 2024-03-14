@@ -1,5 +1,5 @@
+import { cn } from "@/lib/utils";
 import { metaDenuncia } from "@/utils/descriptions";
-import { cn } from "@/utils/tailwindUtils";
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
 
