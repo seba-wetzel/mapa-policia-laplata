@@ -26,9 +26,9 @@ npm run dev
 
 Abri la siguiente url local [http://localhost:3000](http://localhost:3000) para ver el proyecto en tu navegador.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Ya podes modificar `app/page.tsx` para cargar los Geojson de tu mapa, y los cambios se van a recargar automáticamente.
 
-Este proyecto ademass utiliza [`Tailwind`](https://tailwindcss.com/) para acelarar el desarrollo de la interfaz de usuario. Podes encontrar la documentación de Tailwind [aquí](https://tailwindcss.com/docs).
+Este proyecto ademas utiliza [`Tailwind`](https://tailwindcss.com/) para acelarar el desarrollo de la interfaz de usuario. Podes encontrar la documentación de Tailwind [aquí](https://tailwindcss.com/docs).
 Tailwind es un framework de CSS que permite usar utility classes para estilizar los componentes, esto permite acelerar el desarrollo.
 
 Para secciones especificas donde se neceito componentes mas complejos visualmente se utilizaron componentes de [`shadcn/ui`](https://ui.shadcn.com/) (no es una libreria de componentes ni un framework, son componentes que se pueden copiar y pegar en el proyecto, no es necesario instalar nada)
